@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Smile Before You Die",
+    "genre": "Thriller",
+    "image": "https://via.placeholder.com/200x300?text=Smile",
+    "desc": "A mystery with twists.",
+    "trailer": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "title": "Detective Vesni",
+    "genre": "Mystery",
+    "image": "https://via.placeholder.com/200x300?text=Vesni",
+    "desc": "The story of a student investigator.",
+    "trailer": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "title": "Laughing Dead",
+    "genre": "Comedy",
+    "image": "https://via.placeholder.com/200x300?text=Comedy",
+    "desc": "Zombies with a sense of humor.",
+    "trailer": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "title": "Explosion Day",
+    "genre": "Action",
+    "image": "https://via.placeholder.com/200x300?text=Action",
+    "desc": "Everything goes boom.",
+    "trailer": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  }
+]
